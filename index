@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<title>Página Inicial</title>
+	<style type="text/css">
+	body {
+	}
+	table {
+		width: 70%;
+		margin: 10px auto;/*centralização na horizontal*/
+	}
+	td {
+		text-align:left;
+		vertical-align: top;
+	}
+	a {
+		color: #cecece;
+		text-decoration: none;
+		font-size: 30px;
+	}
+	a:hover
+	</style>
+</head>
+<body>
+	<h1>ROBÔS ALIADOS A PRÁTICA HOSPITALAR</h1>
+	<p>
+		<a href="index.html" target="_self">Início</a>  |
+		<a href="Exemplo01.html">Exemplo 01</a> |
+		<a href="Exemplo02.html">Exemplo 02</a> |
+		<a href="Exemplo03.html">Exemplo 03</a> |
+		<a href="contato.html">Contato</a>
+	</p>
+	
+	<div>
+		<form action="mensagem.html">
+		
+		
+	<table border="1">
+		<tr>
+			
+			<td>
+					<h1> Tecnologia Robôtica</h1>
+					<p> A tecnologia robôtica é uma ferramenta poderosa na melhoria 
+					contínua dos serviços prestados, não só na área da saúde como em diversos setores.
+					</p>
+					<h1> Custo Elevado</h1>
+					<p> Para ampliar a oferta da tecnologia robótica no país dependemos do surgimento de uma 
+					tecnologia mais barata.</p>
+					<p>O mesmo desafio imposto aos hospitais deve ser proposto à indústria
+					que desenvolve e manufatura o sistema </p>
+					
+					<P><a href="Exemplo01.html" target="_self">IR PARA O EXEMPLO Nº1</a></P>
+
+			</td>
+			
+			<td>
+				<img src="imagens/capa.jpg" alt="Robos"/>
+			</td>
+			
+		</tr>
+	</table>
+	<p>&copy; Todos os direitos reservados a Flávio Tatit (RM:85026).</p>
+</body>
+</html>
